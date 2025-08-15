@@ -1,0 +1,14 @@
+beautifulsoup4==4.13.4
+global_hotkeys==0.1.7
+html_to_json==2.0.0
+keyboard==0.13.5
+numpy==2.3.2
+openai==1.97.1
+PyAudio==0.2.14
+PyAutoGUI==0.9.54
+pyperclip==1.8.2
+python-dotenv==1.1.1
+selenium==4.34.2
+torch==2.7.1
+webdriver_manager==4.0.2
+whisper==1.1.10
