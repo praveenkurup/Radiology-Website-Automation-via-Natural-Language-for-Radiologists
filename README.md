@@ -23,7 +23,7 @@ Configuration and dependencies are similar to the Browser Automation using LLM p
 ## 📸 Screenshots & Media
 
 - ![Workflow Chart](./assets/workflow_chart.png)
-- ![Usage Video](./assets/usage_video.mp4) <!-- Placeholder for usage video -->
+- ![Usage Video](./assets/usage_video.gif) <!-- Placeholder for usage video -->
 
 ## ⚙️ Installation
 
