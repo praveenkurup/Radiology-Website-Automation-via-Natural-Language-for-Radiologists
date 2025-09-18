@@ -21,8 +21,9 @@ The system allows radiologists to perform tasks on the Supervisely platform hand
 Configuration and dependencies are similar to the Browser Automation using LLM project.
 
 ## 📸 Screenshots & Media
-
+### Workflow Chart
 - ![Workflow Chart](./assets/workflow_chart.png)
+### Usage Video
 - ![Usage Video](./assets/usage_video.gif) <!-- Placeholder for usage video -->
 
 ## ⚙️ Installation
