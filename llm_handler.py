@@ -64,7 +64,7 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # -- Config --
-MODEL_NAME = "gpt-4.1-mini"
+MODEL_NAME = os.getenv("MODEL")
 BROWSER_START_URL = "https://app.supervisely.com/"
 # BROWSER_START_URL = "https://app.supervisely.com/app/volumes/?datasetId=1059758&volumeId=358377319"
 CHROME_USER_DATA = r"C:\Users\Praveen\Desktop\Work\voice_command_agent_for_radiologist_final_project\profile"
